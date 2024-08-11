@@ -20,5 +20,7 @@ This project uses machine learning to predict customer churn based on a dataset 
 ## Results
 The model achieved [add accuracy here] accuracy on the test data. The most important features for predicting churn were [mention top features].
 
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/cf147a19-5322-4d48-a521-a3fe5b19712b">
+
 ## How to Run
 Clone the repository, install the necessary libraries, and run the Jupyter Notebook.
